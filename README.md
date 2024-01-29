@@ -1,0 +1,2 @@
+# miniprojects
+verilog mini projects
